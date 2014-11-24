@@ -3,7 +3,7 @@ Spiral
 
 Calculations for Archimidean Spiral for Seng and Hui
 
-sp01: 15.1 - 18.9 offene Moden, 39 Schritte, L = 4 * W, w = 0.25 * W
+sp01: 15.1 - 18.9 offene Moden, 39 Schritte, L = 4 * W, w = 0.25 * W \n
 sp02: 15.1 - 18.9 offene Moden, 39 Schritte, L = 4 * W, w = 0.33 * W
 sp03: 15.1 - 18.9 offene Moden, 39 Schritte, L = 4 * W, w = 0.50 * W
 sp04: 20.1 - 22.9 offene Moden, 39 Schritte, L = 4 * W, w = 0.50 * W
