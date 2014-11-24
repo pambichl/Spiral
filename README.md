@@ -1,4 +1,4 @@
 Spiral
 ======
 
-Calculations for Archimidean Spiral for Seng and Hui
+Calculations for Archimedean Spiral for Seng and Hui
